@@ -24,7 +24,7 @@ Agora que temos nossas tabelas devidamente criadas e populadas com dados de exem
 
 ## 1. - Inserir Dados
 ---------------------
-Depois de criar as tabelas, é hora de inserir os dados.
+Depois de criar as tabelas, é hora de inserir os dados.<br/>
 OBS: arquivos .xlsx disponibilizados pelo curso da Alura.
 
 ## 2. - Desafio:
